@@ -1,1 +1,9 @@
-{"apiEndpoint":"https://mihai-nextjs-sm.cdn.prismic.io/api/v2","libraries":["@/slices","essential-slices"],"_latest":"0.0.43"}
+{
+  "apiEndpoint": "https://mihai-nextjs-sm.cdn.prismic.io/api/v2",
+  "libraries": [
+    "@/slices",
+    "essential-slices"
+  ],
+  "_latest": "0.0.43",
+  "storybook": "http://localhost:8888"
+}
